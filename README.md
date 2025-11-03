@@ -66,7 +66,7 @@ MODEL GRAPH:
 
 Program
 
-
+idfuadhjbdjckasdbcas
 Output Waveform
 
 
