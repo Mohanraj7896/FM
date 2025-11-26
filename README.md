@@ -124,12 +124,14 @@ Output Waveform
 
 
 Tabulation
-![WhatsApp Image 2025-11-06 at 18 14 37_b094da25](https://github.com/user-attachments/assets/28bd3f8b-d417-4ccf-aa22-5143ea68d7bb)
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/1ff16cc4-4b91-40c0-894d-2854f9ee6219" />
+
 
 
 
 Calculation
-![WhatsApp Image 2025-11-06 at 18 16 26_c423a406](https://github.com/user-attachments/assets/8b1f45b6-4876-4483-9b91-ee563db686e0)
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/89a23c59-31b2-4343-9517-96035d62d73f" />
+
 
 
 
