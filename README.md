@@ -124,13 +124,14 @@ Output Waveform
 
 
 Tabulation
-<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/1ff16cc4-4b91-40c0-894d-2854f9ee6219" />
+<img width="1280" height="790" alt="image" src="https://github.com/user-attachments/assets/feb631a4-f8d8-48dd-92b4-871f425cc018" />
+
 
 
 
 
 Calculation
-<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/89a23c59-31b2-4343-9517-96035d62d73f" />
+<img width="803" height="1280" alt="image" src="https://github.com/user-attachments/assets/6816ce80-bde9-407b-a019-0842eadd412c" />
 
 
 
